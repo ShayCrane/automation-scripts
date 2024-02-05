@@ -1,6 +1,6 @@
 # Automation Scripts
 
-*This repository is a portfolio of practical automation scripts with a focus on custom security tools.</br> 
+*This repository is a portfolio of practical automation scripts I've written with a focus on custom security tools.</br> 
 Languages include Python, Bash, and Lua.* 
 </br></br>
 
